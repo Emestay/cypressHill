@@ -43,11 +43,13 @@ Pour exécuter nos tests end to end nous allons utiliser Node JS (npm) et le Fra
 
 Initialisez Node JS dans le projet :
 ```bash
-npm init –y ```
+npm init –y 
+```
 
 Installez l'environnement de test Cypress :
 ```bash
-npm install -D cypress ```
+npm install -D cypress 
+```
 
 
 
